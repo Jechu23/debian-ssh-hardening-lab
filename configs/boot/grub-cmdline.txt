@@ -1,0 +1,2 @@
+# /etc/default/grub, then run: update-grub && reboot
+GRUB_CMDLINE_LINUX="apparmor=1 security=apparmor audit=1 audit_backlog_limit=8192"

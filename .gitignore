@@ -1,0 +1,6 @@
+# Secrets and local data
+*.pem
+*.key
+id_*
+*.ovpn
+*.bak

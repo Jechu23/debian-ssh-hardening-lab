@@ -1,0 +1,2 @@
+# Example line for /etc/fstab (hardened /dev/shm)
+tmpfs /dev/shm tmpfs defaults,noexec,nodev,nosuid 0 0

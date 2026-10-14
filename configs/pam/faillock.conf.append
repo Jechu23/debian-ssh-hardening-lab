@@ -1,0 +1,3 @@
+deny = 5
+unlock_time = 900
+fail_interval = 900
